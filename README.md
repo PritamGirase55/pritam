@@ -1,3 +1,3 @@
 # pritam
 this is my repositoory.<br>
-Author = Pritam Girase
+Author = Pritam Girase[Rajput]
